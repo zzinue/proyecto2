@@ -1,0 +1,64 @@
+h1{
+    color: green;
+}
+h2{
+    color:blue;
+    background-color: black;
+    font-size: 40px;
+}
+a {
+    background-color: yellow !important;
+    display: block;
+
+}
+*{
+    color: red;
+}
+.color-verde {
+    color: green;
+}
+#nombre-pagina {
+    font-size: 50px;
+    color: rgb(47, 206, 255);
+    /* border-color: rgb(204, 0, 255);
+    border-width: 5px;
+    border-style: solid; */
+
+    border: solid 5px rgb(0, 89, 255);
+    border-radius: 90%;
+    text-align: center;
+
+}
+h4 {
+    color: pink;
+    text-align: center;
+}
+
+
+p{
+    background-color: rgb(128, 51, 0);
+    text-align: center;
+}
+a{
+    text-align:right;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+table {
+    background-color: burlywood;
+}
+td {
+    background-color: darkorchid;
+    text-align: center;
+}
+h3{
+    border:solid 1px black;
+    margin-top: 15px;
+    padding: 15px;
+}
+img
+{
+    width: 250px;
+}
+/* id, class, eqitueta, *  */
